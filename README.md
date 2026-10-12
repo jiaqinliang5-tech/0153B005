@@ -13,7 +13,7 @@
 | **Email** | jiaqinliang5@gmail.com |
 | **GitHub** | [your-account](https://github.com/your-account) |
 
-![個人照片](./avatar.jpg)
+![個人照片]([./avatar.](https://github.com/jiaqinliang5-tech/0153B005/blob/e0975976300d82fb3173e706a2bf79fc811337cb/753320349_18079041449306738_5934579845191937898_n.jpg)jpg)
 
 ---
 
