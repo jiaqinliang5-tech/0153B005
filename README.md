@@ -14,7 +14,7 @@
 | **GitHub** | [your-account](https://github.com/your-account) |
 
 <p align="center">
-  <img src=alt="個人照片" width="200" />
+  <img src=https://share.gemini.google/4sR8y41aii87alt="個人照片" width="200" />
 </p>
 
 ---
