@@ -13,7 +13,11 @@
 | **Email** | jiaqinliang5@gmail.com |
 | **GitHub** | [your-account](https://github.com/your-account) |
 
-![個人照片]([./avatar.]([753320349_18079041449306738_5934579845191937898_n.jpg](https://github.com/jiaqinliang5-tech/0153B005/blob/26fcee18927784f4303ed88977fe1691923ac912/753320349_18079041449306738_5934579845191937898_n.jpg))
+📷 **個人照片：**
+<br>
+<img width="736" height="736" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/5576ebd3-a02f-4663-8ad0-4fa45285ee9d" />
+---
+
 
 ---
 
