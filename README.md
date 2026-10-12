@@ -13,9 +13,7 @@
 | **Email** | jiaqinliang5@gmail.com |
 | **GitHub** | [your-account](https://github.com/your-account) |
 
-<p align="center">
-  <img src=https://share.gemini.google/4sR8y41aii87alt="個人照片" width="200" />
-</p>
+![個人照片](./avatar.jpg)
 
 ---
 
